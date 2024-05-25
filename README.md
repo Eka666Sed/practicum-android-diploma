@@ -2,7 +2,7 @@
 
 My graduation project in the Android Developer course at Yandex Practicum. The application for job search using the API HeadHunter. The application allows you to search for jobs, search for vacancies, filtering them by salary, country, region, industry. Shows job details, indicating salary, company location, required work experience, employment, job description, key skills and employer contacts. The application allows you to save your favorite jobs to favorites.
 
-# Stack:
+# Stack
 - Android Studio
 - Clean Arcitecture
 - MVVM
