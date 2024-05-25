@@ -25,6 +25,14 @@ My graduation project in the Android Developer course at Yandex Practicum. The a
 File develop.properties is ignoring by default. Values, texted into develop.properties file will be added to ypur app on building process that calls BuildConfig.
 - Set up your Android device/emulator/simulator.
 - Build and run the project.
+
+
+# List of creators:
+Alexander Neshev
+Anton Babailov
+Daniil Kosmachev
+Evgeny Lebedev
+Ekaterina Sedova
   
 # Дипломный проект Яндекс.Практикума по курсу "Android-разработчик"
 
