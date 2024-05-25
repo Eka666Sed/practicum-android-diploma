@@ -28,16 +28,20 @@ File develop.properties is ignoring by default. Values, texted into develop.prop
 
 
 # List of creators:
-Alexander Neshev
-Anton Babailov
-Daniil Kosmachev
-Evgeny Lebedev
-Ekaterina Sedova
+📱Alexander Neshev
+
+📱Anton Babailov
+
+📱Daniil Kosmachev
+
+📱Evgeny Lebedev
+
+📱Ekaterina Sedova
+
   
 # Дипломный проект Яндекс.Практикума по курсу "Android-разработчик"
 
-Проект представляет собой стартовую точку для разработки дипломного проекта Яндекс.Практикума по
-курсу ["Android-разработчик"](https://practicum.yandex.ru/android-developer/).
+Представляет собой дипломный проект по курсу Яндекс.Практикума ["Android-разработчик"](https://practicum.yandex.ru/android-developer/).
 
 # Предварительная настройка проекта
 
