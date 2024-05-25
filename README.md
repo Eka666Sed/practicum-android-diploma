@@ -27,7 +27,7 @@ File develop.properties is ignoring by default. Values, texted into develop.prop
 - Build and run the project.
 
 
-# List of creators:
+# List of creators
 📱Alexander Neshev
 
 📱Anton Babailov
