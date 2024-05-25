@@ -12,6 +12,10 @@ My graduation project in the Android Developer course at Yandex Practicum. The a
 - Retrofit2
 - StateFlow
 
+# Screenshots
+<img src="https://github.com/Eka666Sed/practicum-android-diploma/raw/main/Screenshot_2024-05-25-15-45-38-42_0592685693392a143a372981d1580658.jpg" alt="Screenshot" width="20%">   <img src="https://github.com/Eka666Sed/practicum-android-diploma/blob/main/Screenshot_2024-05-25-15-46-09-00_0592685693392a143a372981d1580658.jpg" alt="Screenshot" width="20%">   <img src="https://github.com/Eka666Sed/practicum-android-diploma/blob/main/Screenshot_2024-05-25-15-46-59-86_0592685693392a143a372981d1580658.jpg" alt="Screenshot" width="20%">   <img src="https://github.com/Eka666Sed/practicum-android-diploma/blob/main/Screenshot_2024-05-25-15-45-42-41_0592685693392a143a372981d1580658.jpg" alt="Screenshot" width="20%">   <img src="https://github.com/Eka666Sed/practicum-android-diploma/blob/main/Screenshot_2024-05-25-15-45-45-26_0592685693392a143a372981d1580658.jpg" alt="Screenshot" width="20%">
+
+
 # Getting Started 🛠
 - Clone this repository to your local machine.
 
