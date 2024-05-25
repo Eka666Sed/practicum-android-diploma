@@ -1,5 +1,29 @@
+# Practicum-android-diploma 
 
+My graduation project in the Android Developer course at Yandex Practicum. The application for job search using the API HeadHunter. The application allows you to search for jobs, search for vacancies, filtering them by salary, country, region, industry. Shows job details, indicating salary, company location, required work experience, employment, job description, key skills and employer contacts. The application allows you to save your favorite jobs to favorites.
 
+# Stack:
+- Android Studio
+- Clean Arcitecture
+- MVVM
+- Single Activity
+- Android Navigation
+- Room
+- Retrofit2
+- StateFlow
+
+# Getting Started 🛠
+- Clone this repository to your local machine.
+  git clone https://github.com/Eka666Sed/practicum-android-diploma.git
+- Get application token.
+- Open the project in Android Studio.
+- For setting the application token, create file develop.properties in the project folder and add there the only one property:
+  hhAccessToken=my_access_token
+- Instead of my_access_token insert the HeadHunter API access token received after registration (point 2). After changing the value synchronize the project.
+File develop.properties is ignoring by default. Values, texted into develop.properties file will be added to ypur app on building process that calls BuildConfig.
+- Set up your Android device/emulator/simulator.
+- Build and run the project.
+  
 # Дипломный проект Яндекс.Практикума по курсу "Android-разработчик"
 
 Проект представляет собой стартовую точку для разработки дипломного проекта Яндекс.Практикума по
