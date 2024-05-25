@@ -14,6 +14,8 @@ My graduation project in the Android Developer course at Yandex Practicum. The a
 
 # Getting Started 🛠
 - Clone this repository to your local machine.
+
+
   git clone https://github.com/Eka666Sed/practicum-android-diploma.git
 - Get application token.
 - Open the project in Android Studio.
